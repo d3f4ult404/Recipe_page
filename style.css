@@ -1,0 +1,44 @@
+#head {
+    font-size: 50px;
+    
+}
+#mau_tim {
+    background-color:blueviolet;
+}
+.tieu_de {
+    color: brown;
+    font-size: medium;
+}
+.nutrition {
+    background-color: #fff8f2;
+    border-radius: 12px;
+    padding: 20px;
+    width: 320px;
+    font-family: "Georgia", serif;
+  }
+
+  .nutrition h3 {
+    color: #5a3a2e;
+    margin-bottom: 12px;
+  }
+
+  .nutrition-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #f2e3d5;
+    font-size: 16px;
+  }
+
+  .nutrition-item:last-child {
+    border-bottom: none;
+  }
+
+  .nutrition-label {
+    color: #5a3a2e;
+  }
+
+  .nutrition-value {
+    font-weight: bold;
+    color: #3b2a23;
+  }
